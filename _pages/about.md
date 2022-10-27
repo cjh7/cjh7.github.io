@@ -24,9 +24,9 @@ Education
 
 Research Interests
 ======
-* Methodology: Machine learning; Bayesian analysis; Reinforcement learning; Physics-informed machine
+* __Methodology__: Machine learning; Bayesian analysis; Reinforcement learning; Physics-informed machine
 learning; Generative adversarial network; Bayesian optimization.
-* Application: Smart manufacturing; Additive manufacturing; Cybersecurity; Healthcare.
+* __Application__: Smart manufacturing; Additive manufacturing; Cybersecurity; Healthcare.
 
 Getting started
 ======
