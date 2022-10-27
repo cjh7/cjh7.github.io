@@ -12,13 +12,13 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Education
 ======
-* _Virginia Polytechnic Institute and State University (Virginia Tech)_, Blacksburg, U.S.A.
+* __Virginia Polytechnic Institute and State University (Virginia Tech)__, Blacksburg, U.S.A.
   * Ph.D. Candidate in Department of Industrial and Systems Engineering, (2017-2023).  
   * Advisor: Dr. Zhenyu (James) Kong. 
   * Dissertation: Machine Learning for Process Monitoring and Control in Advanced Manufacturing Process.
-* Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Republic of Korea.
+* __Korea Advanced Institute of Science and Technology (KAIST)__, Daejeon, Republic of Korea.
   * M.S., Department of Industrial and Systems Engineering, (2015-2017).
-* Hanyang University, Seoul, Republic of Korea.
+* __Hanyang University__, Seoul, Republic of Korea.
   * B.S., Department of Industrial Engineering, (2008-2015), Graduated Cum Laude.
 
 
