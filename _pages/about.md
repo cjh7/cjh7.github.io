@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Jihoon Chung who is a Ph.D. candidate, under the supervision of Dr. Zhenyu (James) Kong in the Grado Department of Industrial and Systems Engineering at Virginia Tech and scheduled to defend in Spring 2023. I obtained a Master of Science in Industrial and Systems Engineering at Korea Advanced Institute of Science and Technology (KAIST), in 2017, and received my Bachelor of Science in Industrial Engineering from Hanyang University, in 2015.  
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Jihoon Chung who is a Ph.D. candidate, under the supervision of Dr. Zhenyu (James) Kong in the Grado Department of Industrial and Systems Engineering at Virginia Tech and scheduled to defend in Spring 2023. I am currently in the job market, and looking for an academic job.
 
 Education
 ======
