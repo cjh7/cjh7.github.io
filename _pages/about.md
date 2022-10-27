@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Education
 ======
-* Virginia Polytechnic Institute and State University (Virginia Tech), Blacksburg, U.S.A.
+* _Virginia Polytechnic Institute and State University (Virginia Tech)_, Blacksburg, U.S.A.
   * Ph.D. Candidate in Department of Industrial and Systems Engineering, (2017-2023).  
   * Advisor: Dr. Zhenyu (James) Kong. 
   * Dissertation: Machine Learning for Process Monitoring and Control in Advanced Manufacturing Process.
