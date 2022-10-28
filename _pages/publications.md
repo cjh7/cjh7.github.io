@@ -10,6 +10,7 @@ author_profile: true
 1.  <b>J. Chung</b>, B. Shen, A.C.C Law and Z.J. Kong. “Reinforcement Learning-based Defect Mitigation for
 Quality Assurance of Additive Manufacturing.” Under minor revision at Journal of Manufacturing Systems
 (2022).
+    * <span style="color: Tomato"> **Winner for IISE QCRE Division Best Student Paper Award**  </span> 
 
 2. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> Accepted at <i>IISE Transactions on Healthcare Systems Engineering.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.18166667.v1)
     * <span style="color: Tomato"> **Winner for INFORMS QSR Best Case Study Paper Competition (2022)**  </span> 
