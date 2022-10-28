@@ -3,9 +3,10 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# Journal Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=OO3dy4wAAAAJ&hl=en)
+# Journal Publications 
 ## Published/Accepted 
-1. <b><ins>Bo Shen</ins></b>, Weijun Xie, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">Smooth Robust Tensor Completion for Background/Foreground Separation with Missing Pixels: Novel Algorithm with Convergence Guarantee.</span></b> _Journal of Machine Learning Research_. (2022) <br>[[Paper]](https://jmlr.org/papers/v23/22-0369.html) [[Code]](https://github.com/BoShen0/Smooth-Robust-Tensor-Completion-for-Background-Foreground-Separation-with-Missing-Pixels)
+1. <b><ins>J. Chung</ins></b>, and H. Kim. <b><span style="color:RoyalBlue">Crime risk maps: a multivariate spatial analysis of crime data.</span></b> _ Geographical
+analysis 51.4 (2019): 475-499._. (2019) 
 2. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> Accepted at <i>IISE Transactions on Healthcare Systems Engineering.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.18166667.v1)
     * <span style="color: Tomato"> **Winner for INFORMS QSR Best Case Study Paper Competition (2022)**  </span> 
     * <span style="color: Tomato"> **Runner-up for INFORMS QSR Industry Data Challenge (2020)**  </span>  
