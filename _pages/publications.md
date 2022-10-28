@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 # Journal Publications 
+
 ## Published/Accepted 
 1. <b><ins>J. Chung</ins></b>, and H. Kim.  “Crime risk maps: a multivariate spatial analysis of crime data,” Geographical analysis 51.4 (2019): 475-499 (2019) 
 ## Under Review/ Revision
