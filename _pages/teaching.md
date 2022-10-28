@@ -8,8 +8,10 @@ author_profile: true
 * ISE 4214: **Lean Manufacturing**, Spring 2018, 2019.
 * ISE 2014: **Engineering Economy**, Fall 2018.
 * ISE 3434: **Deterministic Operations Research**, Fall 2017.
+
 # Graduate Teaching Assistant in KAIST
 * IE 101: **Introduction to Operations Research**, Fall 2015, Spring 2016.
+
 # Academic Services
 *  **Session Chair**: Data-driven Methods for Process Monitoring in Advanced Manufacturing, Informs Annual
 Meeting, 2022.
