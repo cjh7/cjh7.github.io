@@ -7,11 +7,11 @@ main:
     url: /posts/    
 
   - title: "Talks"
-    url: /Talks/    
+    url: /talks/    
     
   - title: "Teaching & Services"
     url: /teaching/
 
   - title: "CV"
-    url: /cv/
+    url: /portfolio/
     
