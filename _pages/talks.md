@@ -4,18 +4,21 @@ permalink: /talks/
 author_profile: true
 ---
 # Invited Talks 
-* <b>Multi-Task Gaussian Process Upper Confidence Bound for Hyperparameter Tuning</b>
-     * INFORMS Annual Meeting, Anaheim, CA, 2021
-     * IISE Annual Conference 2020 (Virtual)
-* <b>Robust Tensor Decompositionbased Background/Foreground Separation in Noisy Videos and Its Applications in Additive Manufacturing</b>
-     * INFORMS Annual Meeting, Anaheim, CA, 2021
-* <b>Super Resolution for Multi-Sources Image Stream Data using Smooth and Sparse Tensor Completion and its Applications in Data Acquisition of Additive Manufacturing</b>
-     * ICAM AI Symposium, Anaheim, CA, 2021 
-     * INFORMS Annual Conference 2020 (Virtual)
-     * IISE Annual Conference 2020 (Virtual)
-* <b>Robust Tensor Principal Component Analysis: Formulation, Algorithm, and Applications</b>
-     * INFORMS Annual Conference 2020 (Virtual)
-     * INFORMS Annual Conference, Seattle, WA, 2019
-* <b>Clustered Discriminant Regression for High-Dimensional Data Feature Extraction and Its Applications in Healthcare and Additive Manufacturing</b>
-     * IISE Annual Conference, Orlando, FL, 2019
-
+* <b>“Reinforcement Learning based Online Quality Assurance for Additive Manufacturing Process,” IISE Annual
+Conference, Orlando, Florida, May 18-21, 2019.</b>
+* <b>“Online Optimal Parameter Settings for Additive Manufacturing Processes by Reinforcement Learning with
+Knowledge Transfer,” Informs Annual Meeting, Seattle, Washington, Oct. 20-23, 2019.</b>
+* <b>“Additive Manufacturing Process Monitoring and Control Using Enhanced Reinforcement Learning,” IISE
+Annual Conference, Virtual Meeting, Nov. 1-3, 2020.</b>
+* <b>“Sparse Bayesian Learning with Temporally Correlated Source Vectors with Application to Fault Diagnosis
+in Multistation Assembly Systems,” Informs Annual Meeting, Virtual Meeting, Oct. 24-27, 2021.</b>
+* <b>“Anomaly Detection based on Generative Adversarial Network with Application to Additive Manufacturing
+Process,” Informs Annual Meeting, Virtual Meeting, Oct. 24-27, 2021.
+</b>
+* <b>“Grouping and Spatially Correlated Sparse Bayesian Learning with Application to Multi-Stage Assembly
+Systems,” IISE Annual Conference, Seattle, Washington, May 21-24, 2022.</b>
+* <b>“Imbalanced Data Classification via Generative Adversarial Network with Application to Anomaly Detection
+in Additive Manufacturing Process,” Informs Annual Meeting, Indianapolis, Indiana, Oct. 16-19, 2022.
+</b>
+* <b>“Grouping and Spatially Correlated Sparse Bayesian Learning with Application to Multi-Stage Assembly
+Systems,” Informs Annual Meeting, Indianapolis, Indiana, Oct. 16-19, 2022.</b>
