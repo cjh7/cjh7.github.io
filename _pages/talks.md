@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 # Invited Talks 
-* <b>“Reinforcement Learning based Online Quality Assurance for Additive Manufacturing Process,” IISE Annual
+* <b>“Reinforcement Learning based Online Quality Assurance for Additive Manufacturing Process,”</b> IISE Annual
 Conference, Orlando, Florida, May 18-21, 2019.</b>
 * <b>“Online Optimal Parameter Settings for Additive Manufacturing Processes by Reinforcement Learning with
 Knowledge Transfer,” Informs Annual Meeting, Seattle, Washington, Oct. 20-23, 2019.</b>
