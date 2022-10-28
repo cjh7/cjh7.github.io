@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jihoon Chung / Site Title"
+title                    : "Jihoon Chung"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
