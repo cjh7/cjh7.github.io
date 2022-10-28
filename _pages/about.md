@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Jihoon Chung who is a Ph.D. candidate, under the supervision of Dr. Zhenyu (James) Kong in the Grado Department of Industrial and Systems Engineering at Virginia Tech and scheduled to defend in Spring 2023. During my Ph.D. study, I accomplined  I am currently in the job market, and looking for an academic job.
+My name is Jihoon Chung who is a Ph.D. candidate, under the supervision of Dr. Zhenyu (James) Kong in the Grado Department of Industrial and Systems Engineering at Virginia Tech. During my Ph.D. study, the research I accomplished contributed to both quality assurance in the advanced manufacturing process, and methodological novelties.  I am currently in the job market and looking for an academic job.
 
 Education
 ======
