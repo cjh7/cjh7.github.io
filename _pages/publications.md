@@ -7,7 +7,11 @@ author_profile: true
 
 ## Published/Accepted 
 1. <b><ins>J. Chung</ins></b>, and H. Kim.  “Crime risk maps: a multivariate spatial analysis of crime data,” Geographical analysis 51.4 (2019): 475-499.
-## Under Review/ Revision
+2. 
+## Under Review/Revision
+
+{:start="2"}
+
 1. <b><ins>J. Chung</ins></b>, B. Shen, A.C.C Law and Z.J. Kong. “Reinforcement Learning-based Defect Mitigation for
 Quality Assurance of Additive Manufacturing.” Under minor revision at Journal of Manufacturing Systems
 (2022).
