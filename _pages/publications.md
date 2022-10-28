@@ -22,9 +22,15 @@ Transactions on Pattern Analysis and Machine Intelligence (2022).
     * <span style="color: Tomato"> **Winner for IISE QCRE/ProcessMiner Data Challenge Competition**  </span> 
     * <span style="color: Tomato"> **Winner for Informs DMDA Workshop Poster Competition**  </span> 
 5. A.C.C Law, R. Wang, <b>J. Chung</b>, D. Garcia, E. Kucukdger, B.N Johnson, and Z.J. Kong. “Process Parameter Optimization for Reproducible Fabrication of 3D-printed Tissue Scaffold Porosity and Mechanical Properties.” Under major revision at Journal of Intelligent Manufacturing (2022).
-  
-2. Maede Maftouni, <b><ins>Bo Shen</ins></b>, Andrew Chung Chee Law, and Zhenyu (James) Kong. <b><span style="color:RoyalBlue">A Mask-guided Attention Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database.</span></b> Accepted at <i>IISE Transactions on Healthcare Systems Engineering.</i> (2022) <br>[[Preprint]](https://doi.org/10.36227/techrxiv.18166667.v1)
-    * <span style="color: Tomato"> **Winner for INFORMS QSR Best Case Study Paper Competition (2022)**  </span> 
-    * <span style="color: Tomato"> **Runner-up for INFORMS QSR Industry Data Challenge (2020)**  </span>  
-    * <span style="color: Tomato"> **Second place of poster competition in INFORMS & HFES Student Poster Competition, ISE, Virginia Tech (2020)**  </span>
-
+## Papers with Manuscript
+1. <b>J. Chung</b>, and Z.J. Kong. “Grouping and Spatially Correlated Sparse Bayesian Learning with Application
+to Multi-Stage Assembly Systems.” To be submitted to IEEE Transactions on Automation Science and
+Engineering (2022).
+2. N.Jordan, <b>J. Chung</b>, Z.J. Kong, and C. Williams. “Ensuring Additive Manufacturing Quality And CyberPhysical Security Via Side Channel Measurements And Transmissions.” To be submitted to Additive
+Manufacturing (2022).
+## Working Papers
+1. <b>J. Chung</b>, C. Liu, and Z.J. Kong. “Machine Learning and Data Analytics for Additive Manufacturing in
+Cyber-Physical Security: A review paper.”
+2. <b>J. Chung</b>, R. Gnanasambandam, Y. Zhang, Z.J. Kong, and B. Shen. “Automatic Thresholding by
+Reconstruction Error in Unsupervised Anomaly Detection.” 
+    * <span style="color: Tomato"> **Finalist for Informs QSR Data Challenge Competition**  </span>  
