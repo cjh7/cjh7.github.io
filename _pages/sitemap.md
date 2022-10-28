@@ -1,12 +1,10 @@
----
-permalink: /
-title: "About me"
-excerpt: "About me"
+layout: archive
+title: "Sitemap"
+permalink: /sitemap/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+About me
+======
 My name is Jihoon Chung who is a Ph.D. candidate, under the supervision of Dr. Zhenyu (James) Kong in the Grado Department of Industrial and Systems Engineering at Virginia Tech. During my Ph.D. study, the research I accomplished contributed to both quality assurance in the advanced manufacturing process, and methodological novelties.  I am currently in the job market and looking for an academic job.
 
 Education
