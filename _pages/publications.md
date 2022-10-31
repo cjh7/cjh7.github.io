@@ -6,7 +6,7 @@ author_profile: true
 # Journal Publications 
 
 ## Published/Accepted 
-1. <b><ins>J. Chung</ins></b>, and H. Kim.  “Crime risk maps: a multivariate spatial analysis of crime data,” Geographical analysis 51.4 (2019): 475-499.
+1. <b><ins>J. Chung</ins></b>, and H. Kim.  “Crime risk maps: a multivariate spatial analysis of crime data,” Geographical analysis 51.4 (2019): 475-499. <br>[[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12182) 
  
 ## Under Review/Revision
 
@@ -15,7 +15,7 @@ Quality Assurance of Additive Manufacturing.” Under minor revision at Journal 
 (2022).
     * <span style="color: Tomato"> **Winner for IISE QCRE Division Best Student Paper Award**  </span> 
 2. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “A Novel Sparse Bayesian Learning and Its Application to Fault
-Diagnosis for Multi-station Assembly Systems.” Under major revision at IISE Transactions (2022). <br>[[Paper]](https://arxiv.org/abs/2210.16176) 
+Diagnosis for Multi-station Assembly Systems.” Under major revision at IISE Transactions (2022). <br>[[PrePrint]](https://arxiv.org/abs/2210.16176) 
 3. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “Imbalanced Data Classification via Generative Adversarial Network
 with Application to Anomaly Detection in Additive Manufacturing Process.” Under review at IEEE
 Transactions on Automation Science and Engineering (2022).
