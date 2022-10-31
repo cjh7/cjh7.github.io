@@ -21,7 +21,7 @@ with Application to Anomaly Detection in Additive Manufacturing Process.” Unde
 Transactions on Automation Science and Engineering (2022).
 4. R. Gnanasambandam, B. Shen, <b><ins>J. Chung</ins></b>, X. Yue, and Z.J. Kong. “Self-scalable Tanh (Stan): Accelerated
 Convergence and Better Generalization of Physics-Informed Neural Networks.” Under review at IEEE
-Transactions on Pattern Analysis and Machine Intelligence (2022).
+Transactions on Pattern Analysis and Machine Intelligence (2022). <br>[[PrePrint]]([https://arxiv.org/abs/2210.16176](https://arxiv.org/abs/2204.12589))
     * <span style="color: Tomato"> **Winner for IISE QCRE/ProcessMiner Data Challenge Competition**  </span> 
     * <span style="color: Tomato"> **Winner for Informs DMDA Workshop Poster Competition**  </span> 
 5. A.C.C Law, R. Wang, <b><ins>J. Chung</ins></b>, D. Garcia, E. Kucukdger, B.N Johnson, and Z.J. Kong. “Process Parameter Optimization for Reproducible Fabrication of 3D-printed Tissue Scaffold Porosity and Mechanical Properties.” Under major revision at Journal of Intelligent Manufacturing (2022).
