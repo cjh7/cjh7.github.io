@@ -22,7 +22,9 @@ Convergence and Better Generalization of Physics-Informed Neural Networks.” Un
 Transactions on Pattern Analysis and Machine Intelligence (2022). <br>[[PrePrint]](https://arxiv.org/abs/2204.12589)
     * <span style="color: Tomato"> **Winner for IISE QCRE/ProcessMiner Data Challenge Competition**  </span> 
     * <span style="color: Tomato"> **Winner for Informs DMDA Workshop Poster Competition**  </span> 
+    
 ## Papers with Manuscript
+
 1. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “Imbalanced Data Classification via Generative Adversarial Network
 with Application to Anomaly Detection in Additive Manufacturing Process.” To be submitted to Journal of Intelligent Manufacturing (2022).
 2. <b><ins>J. Chung</ins></b>, and Z.J. Kong. “Grouping and Spatially Correlated Sparse Bayesian Learning with Application
