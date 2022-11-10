@@ -26,7 +26,7 @@ Transactions on Pattern Analysis and Machine Intelligence (2022). <br>[[PrePrint
 ## Papers with Manuscript
 
 1. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “Imbalanced Data Classification via Generative Adversarial Network
-with Application to Anomaly Detection in Additive Manufacturing Process.” To be submitted to Journal of Intelligent Manufacturing (2022).
+with Application to Anomaly Detection in Additive Manufacturing Process.” To be submitted to Journal of Intelligent Manufacturing (2022). <br>[[PrePrint]](https://arxiv.org/abs/2210.17274v2) 
 2. <b><ins>J. Chung</ins></b>, and Z.J. Kong. “Grouping and Spatially Correlated Sparse Bayesian Learning with Application
 to Multi-Stage Assembly Systems.” To be submitted to IEEE Transactions on Automation Science and
 Engineering (2022).
