@@ -7,17 +7,17 @@ author_profile: true
 
 ## Published/Accepted 
 1. <b><ins>J. Chung</ins></b>, and H. Kim.  “Crime risk maps: a multivariate spatial analysis of crime data,” Geographical analysis 51.4 (2019): 475-499. <br>[[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12182) 
- 
+2. <b><ins>J. Chung</ins></b>, B. Shen, A.C.C Law and Z.J. Kong. “Reinforcement Learning-based Defect Mitigation for
+Quality Assurance of Additive Manufacturing.” Accepted at Journal of Manufacturing Systems
+(2022). <br>[[PrePrint]](https://arxiv.org/abs/2210.17272) 
+    * <span style="color: Tomato"> **Winner for IISE QCRE Division Best Student Paper Award**  </span>  
+
 ## Under Review/Revision
 
-1. <b><ins>J. Chung</ins></b>, B. Shen, A.C.C Law and Z.J. Kong. “Reinforcement Learning-based Defect Mitigation for
-Quality Assurance of Additive Manufacturing.” Under second round review at Journal of Manufacturing Systems
-(2022). <br>[[PrePrint]](https://arxiv.org/abs/2210.17272) 
-    * <span style="color: Tomato"> **Winner for IISE QCRE Division Best Student Paper Award**  </span> 
-2. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “A Novel Sparse Bayesian Learning and Its Application to Fault
+1. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “A Novel Sparse Bayesian Learning and Its Application to Fault
 Diagnosis for Multi-station Assembly Systems.” Under second round review at IISE Transactions (2022). <br>[[PrePrint]](https://arxiv.org/abs/2210.16176) 
-3. A.C.C Law, R. Wang, <b><ins>J. Chung</ins></b>, D. Garcia, E. Kucukdger, B.N Johnson, and Z.J. Kong. “Process Parameter Optimization for Reproducible Fabrication of 3D-printed Tissue Scaffold Porosity and Mechanical Properties.” Under major revision at Journal of Intelligent Manufacturing (2022).
-4. R. Gnanasambandam, B. Shen, <b><ins>J. Chung</ins></b>, X. Yue, and Z.J. Kong. “Self-scalable Tanh (Stan): Accelerated
+2. A.C.C Law, R. Wang, <b><ins>J. Chung</ins></b>, D. Garcia, E. Kucukdger, B.N Johnson, and Z.J. Kong. “Process Parameter Optimization for Reproducible Fabrication of 3D-printed Tissue Scaffold Porosity and Mechanical Properties.” Under major revision at Journal of Intelligent Manufacturing (2022).
+3. R. Gnanasambandam, B. Shen, <b><ins>J. Chung</ins></b>, X. Yue, and Z.J. Kong. “Self-scalable Tanh (Stan): Accelerated
 Convergence and Better Generalization of Physics-Informed Neural Networks.” Under review at IEEE
 Transactions on Pattern Analysis and Machine Intelligence (2022). <br>[[PrePrint]](https://arxiv.org/abs/2204.12589)
     * <span style="color: Tomato"> **Winner for IISE QCRE/ProcessMiner Data Challenge Competition**  </span> 
