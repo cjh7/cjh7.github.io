@@ -16,6 +16,8 @@ Quality Assurance of Additive Manufacturing.” Accepted at Journal of Manufactu
 
 1. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “A Novel Sparse Bayesian Learning and Its Application to Fault
 Diagnosis for Multi-station Assembly Systems.” Under second round review at IISE Transactions (2022). <br>[[PrePrint]](https://arxiv.org/abs/2210.16176) 
+2. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “Imbalanced Data Classification via Generative Adversarial Network
+with Application to Anomaly Detection in Additive Manufacturing Process.” Under review at Journal of Intelligent Manufacturing (2022). <br>[[PrePrint]](https://arxiv.org/abs/2210.17274v2) 
 2. A.C.C Law, R. Wang, <b><ins>J. Chung</ins></b>, D. Garcia, E. Kucukdger, B.N Johnson, and Z.J. Kong. “Process Parameter Optimization for Reproducible Fabrication of 3D-printed Tissue Scaffold Porosity and Mechanical Properties.” Under major revision at Journal of Intelligent Manufacturing (2022).
 3. R. Gnanasambandam, B. Shen, <b><ins>J. Chung</ins></b>, X. Yue, and Z.J. Kong. “Self-scalable Tanh (Stan): Accelerated
 Convergence and Better Generalization of Physics-Informed Neural Networks.” Under review at IEEE
@@ -25,12 +27,10 @@ Transactions on Pattern Analysis and Machine Intelligence (2022). <br>[[PrePrint
     
 ## Papers with Manuscript
 
-1. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “Imbalanced Data Classification via Generative Adversarial Network
-with Application to Anomaly Detection in Additive Manufacturing Process.” To be submitted to Journal of Intelligent Manufacturing (2022). <br>[[PrePrint]](https://arxiv.org/abs/2210.17274v2) 
-2. <b><ins>J. Chung</ins></b>, and Z.J. Kong. “Grouping and Spatially Correlated Sparse Bayesian Learning with Application
+1. <b><ins>J. Chung</ins></b>, and Z.J. Kong. “Grouping and Spatially Correlated Sparse Bayesian Learning with Application
 to Multi-Stage Assembly Systems.” To be submitted to IEEE Transactions on Automation Science and
 Engineering (2022).
-3. N.Jordan, <b><ins>J. Chung</ins></b>- Z.J. Kong, and C. Williams. “Ensuring Additive Manufacturing Quality And Cyber-Physical Security Via Side Channel Measurements And Transmissions.” To be submitted to Additive
+2. N.Jordan, <b><ins>J. Chung</ins></b>- Z.J. Kong, and C. Williams. “Ensuring Additive Manufacturing Quality And Cyber-Physical Security Via Side Channel Measurements And Transmissions.” To be submitted to Additive
 Manufacturing (2022).
 
 ## Working Papers
