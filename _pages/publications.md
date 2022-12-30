@@ -37,6 +37,7 @@ Manufacturing (2022).
 
 1. <b><ins>J. Chung</ins></b>, C. Liu, and Z.J. Kong. “Machine Learning and Data Analytics for Additive Manufacturing in
 Cyber-Physical Security: A review paper.”
-2. <b><ins>J. Chung</ins></b>, R. Gnanasambandam, Y. Zhang, Z.J. Kong, and B. Shen. “Automatic Thresholding by
+2. B. Shen, <b><ins>J. Chung</ins></b>, and Z.J. Kong. “Non-negative Tensor-on-Tensor Regression with Wasserstein Loss: Theory and Application.”
+3. <b><ins>J. Chung</ins></b>, R. Gnanasambandam, Y. Zhang, Z.J. Kong, and B. Shen. “Automatic Thresholding by
 Reconstruction Error in Unsupervised Anomaly Detection.” 
     * <span style="color: Tomato"> **Finalist for Informs QSR Data Challenge Competition**  </span>  
