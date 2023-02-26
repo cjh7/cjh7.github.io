@@ -24,7 +24,7 @@ Convergence and Better Generalization of Physics-Informed Neural Networks.” Un
 Transactions on Pattern Analysis and Machine Intelligence (2022). <br>[[PrePrint]](https://arxiv.org/abs/2204.12589)
     * <span style="color: Tomato"> **Winner for IISE QCRE/ProcessMiner Data Challenge Competition**  </span> 
     * <span style="color: Tomato"> **Winner for Informs DMDA Workshop Poster Competition**  </span> 
-5. N.Jordan, <b><ins>J. Chung</ins></b>- Z.J. Kong, and C. Williams. “Ensuring Additive Manufacturing Quality And Cyber-Physical Security Via Side Channel Measurements And Transmissions.” Under revision at Journal of Manufacturing Systems (2023).
+5. N.Jordan, <b><ins>J. Chung</ins></b>- Z.J. Kong, and C. Williams. “Ensuring Additive Manufacturing Quality And Cyber-Physical Security Via Side Channel Measurements And Transmissions.” Under review at Journal of Manufacturing Systems (2023).
 
 ## Papers with Manuscript
 
