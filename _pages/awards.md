@@ -4,6 +4,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
+* Finalist for IISE QCRE Division Best Track Paper Competition (2023).
 * Winner for [IISE QCRE Division Best Student Paper Award](https://www.iise.org/Details.aspx?id=29058) (2022).
 * Winner for INFORMS Data Mining and Decision Analytics Workshop Poster Competition (2022).
 * Finalist for [INFORMS QSR Data Challenge](https://connect.informs.org/qsr/awards) (2022).
