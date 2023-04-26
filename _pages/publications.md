@@ -17,7 +17,7 @@ Diagnosis for Multi-station Assembly Systems.” Accepted at IISE Transactions (
 
 ## Under Review/Revision
 1. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “Imbalanced Data Classification via Generative Adversarial Network
-with Application to Anomaly Detection in Additive Manufacturing Process.” Under major revision at Journal of Intelligent Manufacturing (2022). <br>[[PrePrint]](https://arxiv.org/abs/2210.17274v2) 
+with Application to Anomaly Detection in Additive Manufacturing Process.” Under minor revision at Journal of Intelligent Manufacturing (2022). <br>[[PrePrint]](https://arxiv.org/abs/2210.17274v2) 
 2. R. Gnanasambandam, B. Shen, <b><ins>J. Chung</ins></b>, X. Yue, and Z.J. Kong. “Self-scalable Tanh (Stan): Accelerated
 Convergence and Better Generalization of Physics-Informed Neural Networks.” Under major revision at IEEE
 Transactions on Pattern Analysis and Machine Intelligence (2022). <br>[[PrePrint]](https://arxiv.org/abs/2204.12589)
