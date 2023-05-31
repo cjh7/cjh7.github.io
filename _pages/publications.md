@@ -12,8 +12,8 @@ Quality Assurance of Additive Manufacturing.” Journal of Manufacturing Systems
 <br>[[Paper]](https://doi.org/10.1016/j.jmsy.2022.11.008) 
     * <span style="color: Tomato"> **Winner for IISE QCRE Division Best Student Paper Award**  </span>  
 3. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “A Novel Sparse Bayesian Learning and Its Application to Fault
-Diagnosis for Multi-station Assembly Systems.” Accepted at IISE Transactions (2023).  
-4. A.C.C Law, R. Wang, <b><ins>J. Chung</ins></b>, D. Garcia, E. Kucukdger, B.N Johnson, and Z.J. Kong. “Process Parameter Optimization for Reproducible Fabrication of 3D-printed Tissue Scaffold Porosity and Mechanical Properties.” Accepted at Journal of Intelligent Manufacturing (2023).
+Diagnosis for Multi-station Assembly Systems.” Accepted at IISE Transactions (2023).  <br>[[Paper]](https://doi.org/10.1080/24725854.2023.2199813) 
+4. A.C.C Law, R. Wang, <b><ins>J. Chung</ins></b>, D. Garcia, E. Kucukdger, B.N Johnson, and Z.J. Kong. “Process Parameter Optimization for Reproducible Fabrication of 3D-printed Tissue Scaffold Porosity and Mechanical Properties.” Accepted at Journal of Intelligent Manufacturing (2023). <br>[[Paper]](https://doi.org/10.1007/s10845-023-02141-0) 
 
 ## Under Review/Revision
 1. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “Anomaly Detection in Additive Manufacturing Processes using Supervised Classification with Imbalanced Sensor Data based on Generative Adversarial Network.” Under minor revision at Journal of Intelligent Manufacturing (2022). <br>[[PrePrint]](https://arxiv.org/abs/2210.17274v3) 
