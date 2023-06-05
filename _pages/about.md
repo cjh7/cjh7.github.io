@@ -14,7 +14,7 @@ Education
 * __Virginia Polytechnic Institute and State University (Virginia Tech)__, Blacksburg, U.S.A.
   * Ph.D., Department of Industrial and Systems Engineering, (2017-2023 (May)).  
   * Advisor: Dr. Zhenyu (James) Kong. 
-  * Dissertation: Machine Learning for Process Monitoring and Control in Advanced Manufacturing Process.
+  * Dissertation: Process Monitoring and Control of Advanced Manufacturing based on Physics-Assisted Machine Learning.
 * __Korea Advanced Institute of Science and Technology (KAIST)__, Daejeon, Republic of Korea.
   * M.S., Department of Industrial and Systems Engineering, (2015-2017).
 * __Hanyang University__, Seoul, Republic of Korea.
