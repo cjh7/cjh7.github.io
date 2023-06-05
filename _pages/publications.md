@@ -14,7 +14,7 @@ Quality Assurance of Additive Manufacturing.” Journal of Manufacturing Systems
 3. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “A Novel Sparse Bayesian Learning and Its Application to Fault
 Diagnosis for Multi-station Assembly Systems.” Accepted at IISE Transactions (2023).  <br>[[Paper]](https://doi.org/10.1080/24725854.2023.2199813) 
 4. A.C.C Law, R. Wang, <b><ins>J. Chung</ins></b>, D. Garcia, E. Kucukdger, B.N Johnson, and Z.J. Kong. “Process Parameter Optimization for Reproducible Fabrication of 3D-printed Tissue Scaffold Porosity and Mechanical Properties.” Accepted at Journal of Intelligent Manufacturing (2023). <br>[[Paper]](https://doi.org/10.1007/s10845-023-02141-0) 
-5. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “Anomaly Detection in Additive Manufacturing Processes using Supervised Classification with Imbalanced Sensor Data based on Generative Adversarial Network.” Accepted at Journal of Intelligent Manufacturing (2022). <br>[[PrePrint]](https://arxiv.org/abs/2210.17274v3) 
+5. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “Anomaly Detection in Additive Manufacturing Processes using Supervised Classification with Imbalanced Sensor Data based on Generative Adversarial Network.” Accepted at Journal of Intelligent Manufacturing (2023). <br>[[PrePrint]](https://arxiv.org/abs/2210.17274v3) 
 
 ## Under Review/Revision
 1. R. Gnanasambandam, B. Shen, <b><ins>J. Chung</ins></b>, X. Yue, and Z.J. Kong. “Self-scalable Tanh (Stan): Accelerated
