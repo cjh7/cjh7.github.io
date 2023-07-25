@@ -25,9 +25,10 @@ Meeting (2022).**  </span>
    * <span style="color: Tomato"> **IEEE Transactions on Neural Networks and Learning Systems.**  </span>
    * <span style="color: Tomato"> **Journal of Intelligent Manufacturing.**  </span>
    * <span style="color: Tomato"> **Journal of Manufacturing Science and Engineering.**  </span>
-*  **VP Events**: The INFORMS Student Chapter at Virginia Tech (2021-2022).
-*  **Professional Society Memberships**: Institute of Industrial and Systems Engineering (IISE), Institute
-for Operation Research and the Management Sciences (INFORMS), Institute of Electrical and Electronics
-Engineers (IEEE).
+*  **Professional Society Memberships**
+   * <span style="color: Tomato"> **Institute of Industrial and Systems Engineering (IISE).**  </span>
+   * <span style="color: Tomato"> **Institute for Operation Research and the Management Sciences (INFORMS).**  </span>
+   * <span style="color: Tomato"> **Institute of Electrical and Electronics Engineers (IEEE).**  </span>
+*  **VP Events**: The INFORMS Student Chapter at Virginia Tech (2021-2022).   
 *  **Incoming Exchange Program Leader**, AIESEC, Hanyang University (2009-2010).
 
