@@ -17,6 +17,7 @@ author_profile: true
   * <span style="color: Tomato"> **Real-Time Process Monitoring for 3D Printing Process via Generative Adversarial Network**  </span> 
 # Academic Services
 *  **Session Chair**
+*  
   * <span style="color: Tomato"> **Advanced Machine Learning II, IISE Annual Conference (2023).**  </span>
   * <span style="color: Tomato"> **Data-driven Methods for Process Monitoring in Advanced Manufacturing, Informs Annual
 Meeting (2022).**  </span> 
