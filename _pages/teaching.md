@@ -20,8 +20,11 @@ author_profile: true
    * <span style="color: Tomato"> **“Advanced Machine Learning II,” IISE Annual Conference (2023).**  </span>
    * <span style="color: Tomato"> **“Data-driven Methods for Process Monitoring in Advanced Manufacturing,” Informs Annual
 Meeting (2022).**  </span> 
-*  **Journal Referee**:  Journal of Intelligent Manufacturing, IEEE Transactions on Automation Science and
-Engineering.
+*  **Journal Referee**
+   * <span style="color: Tomato"> **IEEE Transactions on Automation Science and Engineering.**  </span>
+   * <span style="color: Tomato"> **IEEE Transactions on Neural Networks and Learning Systems.**  </span>
+   * <span style="color: Tomato"> **Journal of Intelligent Manufacturing.**  </span>
+   * <span style="color: Tomato"> **Journal of Manufacturing Science and Engineering.**  </span>
 *  **VP Events**: The INFORMS Student Chapter at Virginia Tech (2021-2022).
 *  **Professional Society Memberships**: Institute of Industrial and Systems Engineering (IISE), Institute
 for Operation Research and the Management Sciences (INFORMS), Institute of Electrical and Electronics
