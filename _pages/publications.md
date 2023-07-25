@@ -25,9 +25,7 @@ Transactions on Pattern Analysis and Machine Intelligence (2022). <br>[[PrePrint
 2. N.Jordan, <b><ins>J. Chung</ins></b>, Z.J. Kong, and C. Williams. “Ensuring Additive Manufacturing Quality And Cyber-Physical Security Via Side Channel Measurements And Transmissions.” Under major revision at Journal of Manufacturing Systems (2023).
 
 ## Papers with Manuscript
-1. <b><ins>J. Chung</ins></b>, and Z.J. Kong. “Grouping and Spatially Correlated Sparse Bayesian Learning with Application
-to Multi-Stage Assembly Systems.” To be submitted to IEEE Transactions on Automation Science and
-Engineering (2022).
+1. <b><ins>J. Chung</ins></b>, and Z.J. Kong. “A Sparse Bayesian Learning for Diagnosis of Nonstationary and Spatially Correlated Faults with Application to Multi-Stage Assembly Systems.” To be submitted to IEEE Transactions on Automation Science and Engineering (2023).
    * <span style="color: Tomato"> **Finalist for IISE QCRE Division Best Track Paper Competition**  </span> 
 2. <b><ins>J. Chung</ins></b>, J. Li, A. Saimon, P. Hong, and Z.J. Kong.	“Predicting the Stereoselectivity of Chemical
 Transformations by the Composite Machine Learning Method.”  To be submitted to IEEE International Conference on Bioinformatics and Biomedicine (BIBM) Proceeding (2023).
