@@ -14,7 +14,7 @@ author_profile: true
 
 # Mentoring Experience in Virginia Tech
 * ISE 4994: **Undergraduate Research**, Fall 2018.
-  * <span style="color: Tomato"> **Winner for IISE QCRE/ProcessMiner Data Challenge Competition**  </span> 
+  * <span style="color: Tomato"> **Real-Time Process Monitoring for 3D Printing Process via Generative Adversarial Network**  </span> 
 # Academic Services
 *  **Session Chair**: Data-driven Methods for Process Monitoring in Advanced Manufacturing, Informs Annual
 Meeting, 2022.
