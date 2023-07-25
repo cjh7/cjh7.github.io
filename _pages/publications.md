@@ -29,4 +29,4 @@ Transactions on Pattern Analysis and Machine Intelligence (2022). <br>[[PrePrint
    * <span style="color: Tomato"> **Finalist for IISE QCRE Division Best Track Paper Competition**  </span> 
 2. <b><ins>J. Chung</ins></b>, J. Li, A. Saimon, P. Hong, and Z.J. Kong.	“Predicting the Stereoselectivity of Chemical
 Transformations by the Composite Machine Learning Method.”  To be submitted to IEEE International Conference on Bioinformatics and Biomedicine (BIBM) Proceeding (2023).
-3. <b><ins>J. Chung</ins></b>, J. Zhang, Y. Liu, A. Saimon, B.N Johnson, and Z.J. Kong. “ Data Augmentation based on the Active Generative Adversarial Network with application to Glycomaterial Spectral data.” To be submitted to Analytical Chemistry (2023).	
+3. <b><ins>J. Chung</ins></b>, J. Zhang, Y. Liu, A. Saimon, B.N Johnson, and Z.J. Kong. “ Data Augmentation based on the Active Generative Adversarial Network with Application to Glycomaterial Spectral Data.” To be submitted to Analytical Chemistry (2023).	
