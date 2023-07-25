@@ -17,7 +17,7 @@ author_profile: true
   * <span style="color: Tomato"> **Real-Time Process Monitoring for 3D Printing Process via Generative Adversarial Network**  </span> 
 # Academic Services
 *  **Session Chair**
-  * <span style="color: Tomato"> **Advanced Machine Learning II, IISE Annual Conference (2023).**  </span>
+   * <span style="color: Tomato"> **Advanced Machine Learning II, IISE Annual Conference (2023).**  </span>
 *  **Journal Referee**:  Journal of Intelligent Manufacturing, IEEE Transactions on Automation Science and
 Engineering.
 *  **VP Events**: The INFORMS Student Chapter at Virginia Tech (2021-2022).
