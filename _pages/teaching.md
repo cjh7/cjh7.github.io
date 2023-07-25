@@ -12,6 +12,9 @@ author_profile: true
 # Graduate Teaching Assistant in KAIST
 * IE 101: **Introduction to Operations Research**, Fall 2015, Spring 2016.
 
+# Mentoring Experience in Virginia Tech
+* ISE 4994: **Undergraduate Research**, Fall 2018.
+* 
 # Academic Services
 *  **Session Chair**: Data-driven Methods for Process Monitoring in Advanced Manufacturing, Informs Annual
 Meeting, 2022.
