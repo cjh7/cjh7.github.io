@@ -14,7 +14,7 @@ author_profile: true
 
 # Mentoring Experience in Virginia Tech
 * ISE 4994: **Undergraduate Research**, Fall 2018.
-  * <span style="color: Tomato"> **Real-Time Process Monitoring for 3D Printing Process via Generative Adversarial Network**  </span> 
+  * <span style="color: black"> **Real-Time Process Monitoring for 3D Printing Process via Generative Adversarial Network**  </span> 
 # Academic Services
 *  **Session Chair**
    * <span style="color: Tomato"> **“Advanced Machine Learning II,” IISE Annual Conference (2023).**  </span>
