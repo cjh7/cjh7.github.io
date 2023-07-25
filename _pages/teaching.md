@@ -18,6 +18,8 @@ author_profile: true
 # Academic Services
 *  **Session Chair**
    * <span style="color: Tomato"> **Advanced Machine Learning II, IISE Annual Conference (2023).**  </span>
+   * <span style="color: Tomato"> **Data-driven Methods for Process Monitoring in Advanced Manufacturing, Informs Annual
+Meeting (2022).**  </span> 
 *  **Journal Referee**:  Journal of Intelligent Manufacturing, IEEE Transactions on Automation Science and
 Engineering.
 *  **VP Events**: The INFORMS Student Chapter at Virginia Tech (2021-2022).
