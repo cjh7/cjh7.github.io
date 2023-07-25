@@ -29,5 +29,5 @@ Transactions on Pattern Analysis and Machine Intelligence (2022). <br>[[PrePrint
 to Multi-Stage Assembly Systems.” To be submitted to IEEE Transactions on Automation Science and
 Engineering (2022).
    * <span style="color: Tomato"> **Finalist for IISE QCRE Division Best Track Paper Competition**  </span> 
-2. <b><ins>J. Chung</ins></b>, J. Li, A. Saimon, P. Hong, and Z.J. Kong.	``Predicting the Stereoselectivity of Chemical
-Transformations by the Composite Machine Learning Method.''  To be submitted to IEEE International Conference on Bioinformatics and Biomedicine (BIBM) Proceeding (2023).
+2. <b><ins>J. Chung</ins></b>, J. Li, A. Saimon, P. Hong, and Z.J. Kong.	“Predicting the Stereoselectivity of Chemical
+Transformations by the Composite Machine Learning Method.”  To be submitted to IEEE International Conference on Bioinformatics and Biomedicine (BIBM) Proceeding (2023).
