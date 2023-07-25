@@ -29,11 +29,5 @@ Transactions on Pattern Analysis and Machine Intelligence (2022). <br>[[PrePrint
 to Multi-Stage Assembly Systems.” To be submitted to IEEE Transactions on Automation Science and
 Engineering (2022).
    * <span style="color: Tomato"> **Finalist for IISE QCRE Division Best Track Paper Competition**  </span> 
-
-## Working Papers
-1. <b><ins>J. Chung</ins></b>, C. Liu, and Z.J. Kong. “Machine Learning and Data Analytics for Additive Manufacturing in
-Cyber-Physical Security: A review paper.”
-2. B. Shen, <b><ins>J. Chung</ins></b>, and Z.J. Kong. “Non-negative Tensor-on-Tensor Regression with Wasserstein Loss: Theory and Application.”
-3. <b><ins>J. Chung</ins></b>, R. Gnanasambandam, Y. Zhang, Z.J. Kong, and B. Shen. “Automatic Thresholding by
-Reconstruction Error in Unsupervised Anomaly Detection.” 
-    * <span style="color: Tomato"> **Finalist for Informs QSR Data Challenge Competition**  </span>  
+2. <b><ins>J. Chung</ins></b>, J. Li, A. Saimon, P. Hong, and Z.J. Kong.	``Predicting the Stereoselectivity of Chemical
+Transformations by the Composite Machine Learning Method.''  To be submitted to \textit{IEEE International Conference on Bioinformatics and Biomedicine (BIBM) Proceeding} (2023).
