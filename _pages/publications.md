@@ -28,4 +28,4 @@ Transactions on Pattern Analysis and Machine Intelligence (2022). <br>[[PrePrint
 4. <b><ins>J. Chung</ins></b>, J. Li, H. Xu, A. Saimon, P. Hong, and Z.J. Kong.	“Predicting the Stereoselectivity of Chemical
 Transformations by the Composite Machine Learning Method.”  Under review at IEEE International Conference on Bioinformatics and Biomedicine (BIBM) Proceeding (2023).     
 ## Papers with Manuscript
-2. <b><ins>J. Chung</ins></b>, J. Zhang, Y. Liu, A. Saimon, B.N Johnson, and Z.J. Kong. “ Data Augmentation based on the Active Generative Adversarial Network with Application to Glycomaterial Spectral Data.” To be submitted to Analytical Chemistry (2023).	
+1. <b><ins>J. Chung</ins></b>, J. Zhang, Y. Liu, A. Saimon, B.N Johnson, and Z.J. Kong. “ Data Augmentation based on the Active Generative Adversarial Network with Application to Glycomaterial Spectral Data.” To be submitted to Analytical Chemistry (2023).	
