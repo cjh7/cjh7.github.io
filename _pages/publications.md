@@ -30,4 +30,5 @@ Transformations by the Composite Machine Learning Method.”  Under review at IE
 ## Papers with Manuscript
 1. <b><ins>J. Chung</ins></b>, J. Zhang, Y. Liu, A. Saimon, B.N Johnson, and Z.J. Kong. “Data Augmentation based on the Active Generative Adversarial Network with Application to Glycomaterial Spectral Data.” To be submitted to Computational Materials (2023).
 2.  M. Maftouni, B. Shen, A.C.C Law, R. Wang, <b><ins>J. Chung</ins></b> and Z.J. Kong. “Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.” To be submitted to IISE Transactions (2023).
+  * <span style="color: Tomato"> **Winner for IISE Manufacturing & Design Division Best Student Paper Award**  </span>  
 3.  B. Shen and <b><ins>J. Chung</ins></b>. “Rotational Invariant Lp-norm Tensor Principal Component Analysis With a Novel Subspace Regularization Algorithm..” To be submitted to IEEE Transactions on Image Processing (2023).
