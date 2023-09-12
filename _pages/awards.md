@@ -4,9 +4,10 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-* Finalist for ICQSR Data Challenge (2023).
 * Finalist for IISE QCRE Division Best Track Paper Competition (2023).
+* Finalist for ICQSR Data Challenge (2023).
 * Winner for IISE QCRE Division Data Challenge (2023)
+* Winner for IISE Manufacturing & Design Division Best Student Paper Award (2022)
 * Winner for IISE QCRE Division Best Student Paper Award (2022).
 * Winner for INFORMS Data Mining and Decision Analytics Workshop Poster Competition (2022).
 * Finalist for INFORMS QSR Data Challenge (2022).
