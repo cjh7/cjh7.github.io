@@ -21,11 +21,10 @@ Convergence and Better Generalization of Physics-Informed Neural Networks.” IE
     * <span style="color: Tomato"> **Winner for Informs DMDA Workshop Poster Competition**  </span> 
 
 ## Under Review/Revision
-
-2. N.Jordan, <b><ins>J. Chung</ins></b>, Z.J. Kong, and C. Williams. “Ensuring Additive Manufacturing Quality And Cyber-Physical Security Via Side Channel Measurements And Transmissions.” Under major revision at Journal of Manufacturing Systems (2023).
-3. <b><ins>J. Chung</ins></b>, and Z.J. Kong. “A Sparse Bayesian Learning for Diagnosis of Nonstationary and Spatially Correlated Faults with Application to Multi-Stage Assembly Systems.” Under review at IEEE Transactions on Automation Science and Engineering (2023).
+1. N.Jordan, <b><ins>J. Chung</ins></b>, Z.J. Kong, and C. Williams. “Ensuring Additive Manufacturing Quality And Cyber-Physical Security Via Side Channel Measurements And Transmissions.” Under major revision at Journal of Manufacturing Systems (2023).
+2. <b><ins>J. Chung</ins></b>, and Z.J. Kong. “A Sparse Bayesian Learning for Diagnosis of Nonstationary and Spatially Correlated Faults with Application to Multi-Stage Assembly Systems.” Under review at IEEE Transactions on Automation Science and Engineering (2023).
    * <span style="color: Tomato"> **Finalist for IISE QCRE Division Best Track Paper Competition**  </span>
-4. <b><ins>J. Chung</ins></b>, J. Li, H. Xu, A. Saimon, P. Hong, and Z.J. Kong.	“Predicting the Stereoselectivity of Chemical
+3. <b><ins>J. Chung</ins></b>, J. Li, H. Xu, A. Saimon, P. Hong, and Z.J. Kong.	“Predicting the Stereoselectivity of Chemical
 Transformations by the Composite Machine Learning Method.”  Under review at IEEE International Conference on Bioinformatics and Biomedicine (BIBM) Proceeding (2023).     
 
 ## Papers with Manuscript
