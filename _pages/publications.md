@@ -16,7 +16,7 @@ Diagnosis for Multi-station Assembly Systems.” Accepted at IISE Transactions (
 4. A.C.C Law, R. Wang, <b><ins>J. Chung</ins></b>, D. Garcia, E. Kucukdger, B.N Johnson, and Z.J. Kong. “Process Parameter Optimization for Reproducible Fabrication of 3D-printed Tissue Scaffold Porosity and Mechanical Properties.” Accepted at Journal of Intelligent Manufacturing (2023). <br>[[Paper]](https://doi.org/10.1007/s10845-023-02141-0) 
 5. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “Anomaly Detection in Additive Manufacturing Processes using Supervised Classification with Imbalanced Sensor Data based on Generative Adversarial Network.” Accepted at Journal of Intelligent Manufacturing (2023). <br>[[Paper]](https://link.springer.com/article/10.1007/s10845-023-02163-8)
 6. R. Gnanasambandam, B. Shen, <b><ins>J. Chung</ins></b>, X. Yue, and Z.J. Kong. “Self-scalable Tanh (Stan): Accelerated
-Convergence and Better Generalization of Physics-Informed Neural Networks.” IEEE Transactions on Pattern Analysis and Machine Intelligence (2023). <br>[[Paper]](https://doi.org/10.1109/TPAMI.2023.3307688)
+Convergence and Better Generalization of Physics-Informed Neural Networks.” Accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence (2023). <br>[[Paper]](https://doi.org/10.1109/TPAMI.2023.3307688)
     * <span style="color: Tomato"> **Winner for IISE QCRE/ProcessMiner Data Challenge Competition**  </span> 
     * <span style="color: Tomato"> **Winner for Informs DMDA Workshop Poster Competition**  </span> 
 
