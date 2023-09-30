@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Jihoon Chung. I received Ph.D. degree under the supervision of Dr. Zhenyu (James) Kong in the Grado Department of Industrial and Systems Engineering at Virginia Tech (May 2023). During my Ph.D. study, the research I accomplished contributed to both quality assurance in the advanced manufacturing process, and methodological novelties.  
+My name is Jihoon Chung.  I received Ph.D. degree under the supervision of Dr. Zhenyu (James) Kong in the Grado Department of Industrial and Systems Engineering at Virginia Tech (May 2023) and am currently working as a postdoctoral researcher in the same lab. During my Ph.D. study, the research I accomplished contributed to both quality assurance in the advanced manufacturing process, and methodological novelties.  
 
 Education
 ======
