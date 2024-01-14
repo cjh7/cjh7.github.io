@@ -18,12 +18,16 @@ author_profile: true
     
 # Academic Services
 *  **Session Chair**
+  * <span style="color: black"> “Data Driven Approaches for Cyber Physical Systems,” Informs Annual
+Meeting (2023).  </span>
    * <span style="color: black"> “Advanced Machine Learning II,” IISE Annual Conference (2023).  </span>
    * <span style="color: black"> “Data-driven Methods for Process Monitoring in Advanced Manufacturing,” Informs Annual
 Meeting (2022).  </span> 
 *  **Journal Referee**
    * <span style="color: black"> IEEE Transactions on Automation Science and Engineering.  </span>
    * <span style="color: black"> IEEE Transactions on Neural Networks and Learning Systems.  </span>
+   * <span style="color: black"> IISE Transactions.  </span>
+   * <span style="color: black"> Journal of Manufacturing Systems.     </span>
    * <span style="color: black"> Journal of Intelligent Manufacturing.  </span>
    * <span style="color: black"> Journal of Manufacturing Science and Engineering.  </span>
 *  **Professional Society Memberships**
