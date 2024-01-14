@@ -6,6 +6,7 @@ author_profile: true
 # Invited Talks 
 * <b>“Process Monitoring and Control of Advanced Manufacturing based on Physics-Assisted Machine Learning,”</b> Hanyang University,Seoul, Korea, Aug. 31, 2023.
 * <b>“Process Monitoring and Control of Advanced Manufacturing based on Physics-Assisted Machine Learning,”</b> Ulsan National Institute of Science & Technology, Ulsan, Korea, Aug. 22, 2023.
+* <b>“Imbalanced Data Analysis from Advanced Manufacturing Process using Data Augmentation based on Generative Adversarial Network,”</b> IInforms Annual Meeting, Phoenix, Arizona, Oct. 15-18, 2023.
 * <b>“Automatic Thresholding by Reconstruction Error in Unsupervised Anomaly Detection,”</b> IISE Annual Conference,New Orleans, Louisiana, May 20-23, 2023.
 * <b>“Grouping and Spatially Correlated Sparse Bayesian Learning with Application to Multi-Stage Assembly
 Systems,”</b> Informs Annual Meeting, Indianapolis, Indiana, Oct. 16-19, 2022.
