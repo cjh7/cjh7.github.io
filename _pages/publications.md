@@ -25,7 +25,7 @@ Convergence and Better Generalization of Physics-Informed Neural Networks.” Ac
    * <span style="color: Tomato"> **Finalist for IISE QCRE Division Best Track Paper Competition**  </span>
 2. N.Jordan, <b><ins>J. Chung</ins></b>, Z.J. Kong, and C. Williams. “Ensuring Additive Manufacturing Quality And Cyber-Physical Security Via Side Channel Measurements And Transmissions.” Under minor revision at Journal of Manufacturing Systems (2023).
 3. C. Li, <b><ins>J. Chung</ins></b>, B. Cai, H. Wang, X. Zhou, and B. Shen. “On Model Compression for Neural Networks:
-Framework, Algorithm, and Convergence Guarantee.” Under review at Journal of Machine Learning
+Framework, Algorithm, and Convergence Guarantee.” Under major revision at Journal of Machine Learning
 Research (2023).
 4. <b><ins>J. Chung</ins></b>, J. Li, H. Xu, A. Saimon, P. Hong, and Z.J. Kong.	“Predicting the Stereoselectivity of Chemical
 Transformations by the Composite Machine Learning Method.”  Under review at Scientific Reports  (2023).     
