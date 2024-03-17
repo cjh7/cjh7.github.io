@@ -30,6 +30,5 @@ Research (2023).
 3. <b><ins>J. Chung</ins></b>, J. Li, H. Xu, A. Saimon, P. Hong, and Z.J. Kong.	“Predicting the Stereoselectivity of Chemical
 Transformations by the Composite Machine Learning Method.”  Under minor revision at Scientific Reports  (2023).     
 4. <b><ins>J. Chung</ins></b>, J. Zhang, Y. Liu, A. Saimon, B.N Johnson, and Z.J. Kong. “Imbalanced Spectral Data Analysis
-using Data Augmentation based on the Generative Adversarial Network.”Under review at npj Computational Materials (2023).
-
+using Data Augmentation based on the Generative Adversarial Network.”Under minor revision at Scientific Reports  (2023).     
 
