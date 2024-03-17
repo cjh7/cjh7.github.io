@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Jihoon Chung.  I received Ph.D. degree under the supervision of Dr. Zhenyu (James) Kong in the Grado Department of Industrial and Systems Engineering at Virginia Tech (May 2023) and am currently working as a postdoctoral researcher in the same lab. During my Ph.D. study, the research I accomplished contributed to both quality assurance in the advanced manufacturing process, and methodological novelties.  
+I am an Assistant Professor in the Department of Industrial Engineering at Pusan National University in Korea. I received a Ph.D. degree under the supervision of Dr. Zhenyu (James) Kong in the Grado Department of Industrial and Systems Engineering at Virginia Polytechnic Institute and State University (Virginia Tech) (May 2023). I also obtained an M.S. degree in the Department of Industrial and Systems Engineering at the Korea Advanced Institute of Science and Technology (KAIST) and  a B.S. degree in the Department of Industrial Engineering from Hanyang University, Seoul, Korea. My research area is developing data-driven methods, including artificial intelligence, machine learning, and statistical learning, to achieve quality assurance in advanced manufacturing processes and solve various problems in healthcare systems and material analysis.
 
 Education
 ======
@@ -25,5 +25,5 @@ Research Interests
 ======
 * __Methodology__: Machine learning; Bayesian analysis; Reinforcement learning; Physics-informed machine
 learning; Generative adversarial network; Bayesian optimization.
-* __Application__: Smart manufacturing; Additive manufacturing; Semiconductor manufacturing; Cybersecurity; Healthcare.
+* __Application__: Smart manufacturing; Additive manufacturing; Semiconductor manufacturing; Cybersecurity; Healthcare; Material Analysis.
 
