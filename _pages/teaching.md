@@ -4,6 +4,11 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
+
+# Instructor in Pusan National University
+* IE 3500452: **Linear Models in Data Science**, Spring 2024.
+* DE 7600045: **Statistical Models and Analysis**, Spring 2024.
+
 # Graduate Teaching Assistant in Virginia Tech
 * ISE 4214: **Lean Manufacturing**, Spring 2018, 2019.
 * ISE 2014: **Engineering Economy**, Fall 2018.
