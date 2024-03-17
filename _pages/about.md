@@ -9,6 +9,16 @@ redirect_from:
 ---
 I am an Assistant Professor in the Department of Industrial Engineering at Pusan National University in Korea. I received a Ph.D. degree under the supervision of Dr. Zhenyu (James) Kong in the Grado Department of Industrial and Systems Engineering at Virginia Polytechnic Institute and State University (Virginia Tech) (May 2023). I also obtained an M.S. degree in the Department of Industrial and Systems Engineering at the Korea Advanced Institute of Science and Technology (KAIST) and  a B.S. degree in the Department of Industrial Engineering from Hanyang University, Seoul, Korea. My research area is developing data-driven methods, including artificial intelligence, machine learning, and statistical learning, to achieve quality assurance in advanced manufacturing processes and solve various problems in healthcare systems and material analysis.
 
+Professional Experience
+======
+* __Pusan Natinoal University__, Busan, Korea.
+  * Assistant Professtor (Mar. 2024~).
+  * Department of Industrial Engineering. 
+* __Virginia Polytechnic Institute and State University (Virginia Tech)__, Blacksburg, U.S.A.
+  * Postdoctoral Researcher in Smart Manufacturing Analytics Research & Technology Lab, (May 2023~Feb. 2024).
+  * Advisor: Dr. Zhenyu (James) Kong. 
+
+
 Education
 ======
 * __Virginia Polytechnic Institute and State University (Virginia Tech)__, Blacksburg, U.S.A.
