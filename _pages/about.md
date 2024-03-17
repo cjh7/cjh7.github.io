@@ -14,8 +14,7 @@ My research area is developing data-driven methods, including artificial intelli
 Professional Experience
 ======
 * __Pusan Natinoal University__, Busan, Korea.
-  * Assistant Professtor (Mar. 2024~).
-  * Department of Industrial Engineering. 
+  * Assistant Professtor at the Department of Industrial Engineering (Mar. 2024~).
 * __Virginia Polytechnic Institute and State University (Virginia Tech)__, Blacksburg, U.S.A.
   * Postdoctoral Researcher in Smart Manufacturing Analytics Research & Technology Lab, (May 2023~Feb. 2024).
   * Advisor: Dr. Zhenyu (James) Kong. 
