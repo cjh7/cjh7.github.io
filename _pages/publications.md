@@ -20,6 +20,8 @@ Convergence and Better Generalization of Physics-Informed Neural Networks.” Ac
     * <span style="color: Tomato"> **Winner for IISE QCRE/ProcessMiner Data Challenge Competition**  </span> 
     * <span style="color: Tomato"> **Winner for Informs DMDA Workshop Poster Competition**  </span>
 7. N.Jordan, <b><ins>J. Chung</ins></b>, Z.J. Kong, and C. Williams. “Ensuring Additive Manufacturing Quality And Cyber-Physical Security Via Side Channel Measurements And Transmissions.” Accepted at Journal of Manufacturing Systems (2024).
+8. <b><ins>J. Chung</ins></b>, J. Li, H. Xu, A. Saimon, P. Hong, and Z.J. Kong.	“Predicting the Stereoselectivity of Chemical
+Transformations by the Composite Machine Learning Method.”  Accepted at Scientific Reports  (2024).    
 
 ## Under Review/Revision
 1. <b><ins>J. Chung</ins></b>, and Z.J. Kong. “A Sparse Bayesian Learning for Diagnosis of Nonstationary and Spatially Correlated Faults with Application to Multi-Stage Assembly Systems.” Under minor revision at IEEE Transactions on Automation Science and Engineering (2023). <br>[[Paper]](https://arxiv.org/abs/2310.16058) 
@@ -27,8 +29,6 @@ Convergence and Better Generalization of Physics-Informed Neural Networks.” Ac
 2. C. Li, <b><ins>J. Chung</ins></b>, B. Cai, H. Wang, X. Zhou, and B. Shen. “On Model Compression for Neural Networks:
 Framework, Algorithm, and Convergence Guarantee.” Under major revision at Journal of Machine Learning
 Research (2023).
-3. <b><ins>J. Chung</ins></b>, J. Li, H. Xu, A. Saimon, P. Hong, and Z.J. Kong.	“Predicting the Stereoselectivity of Chemical
-Transformations by the Composite Machine Learning Method.”  Under minor revision at Scientific Reports  (2023).     
-4. <b><ins>J. Chung</ins></b>, J. Zhang, Y. Liu, A. Saimon, B.N Johnson, and Z.J. Kong. “Imbalanced Spectral Data Analysis
+3. <b><ins>J. Chung</ins></b>, J. Zhang, Y. Liu, A. Saimon, B.N Johnson, and Z.J. Kong. “Imbalanced Spectral Data Analysis
 using Data Augmentation based on the Generative Adversarial Network.”Under minor revision at Scientific Reports  (2023).     
 
