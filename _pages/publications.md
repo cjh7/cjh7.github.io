@@ -31,6 +31,5 @@ using Data Augmentation based on the Generative Adversarial Network.” Accepted
 2. C. Li, <b><ins>J. Chung</ins></b>, B. Cai, H. Wang, X. Zhou, and B. Shen. “On Model Compression for Neural Networks:
 Framework, Algorithm, and Convergence Guarantee.” Under major revision at Journal of Machine Learning
 Research (2023).
-3. <b><ins>J. Chung</ins></b>, J. Zhang, Y. Liu, A. Saimon, B.N Johnson, and Z.J. Kong. “Imbalanced Spectral Data Analysis
-using Data Augmentation based on the Generative Adversarial Network.”Under minor revision at Scientific Reports  (2023).     
+
 
