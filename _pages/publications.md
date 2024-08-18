@@ -24,7 +24,7 @@ Convergence and Better Generalization of Physics-Informed Neural Networks.” Ac
 Transformations by the Composite Machine Learning Method.”  Accepted at Scientific Reports  (2024).    
 9. <b><ins>J. Chung</ins></b>, J. Zhang, Y. Liu, A. Saimon, B.N Johnson, and Z.J. Kong. “Imbalanced Spectral Data Analysis
 using Data Augmentation based on the Generative Adversarial Network.” Accepted at Scientific Reports  (2024).
-10. <b><ins>J. Chung</ins></b>, and Z.J. Kong. “A Sparse Bayesian Learning for Diagnosis of Nonstationary and Spatially Correlated Faults with Application to Multi-Stage Assembly Systems.” Accepted at IEEE Transactions on Automation Science and Engineering (2023). <br>[[Paper]](https://arxiv.org/abs/2310.16058) 
+10. <b><ins>J. Chung</ins></b>, and Z.J. Kong. “A Sparse Bayesian Learning for Diagnosis of Nonstationary and Spatially Correlated Faults with Application to Multi-Stage Assembly Systems.” Accepted at IEEE Transactions on Automation Science and Engineering (2024). <br>[[Paper]](https://arxiv.org/abs/2310.16058) 
    * <span style="color: Tomato"> **Finalist for IISE QCRE Division Best Track Paper Competition**  </span>
 
 
