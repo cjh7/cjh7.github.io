@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the Department of Industrial Engineering at Hanyang University, Seoul, Korea. My research area is developing data-driven methods, including artificial intelligence and and statistical learning, to achieve quality assurance in advanced manufacturing processes and solve various problems in healthcare systems and material analysis.
+I am an Assistant Professor in the Department of Industrial Engineering at Hanyang University, Seoul, Korea. My research area is developing data-driven methods, including artificial intelligence and and statistical learning, to achieve quality assurance in advanced manufacturing processes and solve various problems in healthcare systems and material analysis. Please refer to CV for detailed information.
 
 Professional Experience
 ======
