@@ -12,6 +12,9 @@ main:
   - title: "Teaching & Services"
     url: /teaching/
 
+   - title: "Projects"
+    url: /projects/
+
   - title: "CV"
     url: https://cjh7.github.io/files/CV_JIHOON.pdf
     
