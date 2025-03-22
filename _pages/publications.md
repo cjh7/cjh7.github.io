@@ -27,7 +27,7 @@ using Data Augmentation based on the Generative Adversarial Network.” Scientif
 14.1 (2024): 13230. <br>[[Paper]](https://www.nature.com/articles/s41598-024-63285-4)
 10. <b><ins>J. Chung</ins></b>, and Z.J. Kong. “A Sparse Bayesian Learning for Diagnosis of Nonstationary and Spatially Correlated Faults with Application to Multi-Stage Assembly Systems.” EEE Transactions on Automation
 Science and Engineering (2025): 20, 6716-6728. <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/10680385?casa_token=3sBHIDB1LQQAAAAA:z_fabo7ltalJKw-hDrPoe-JWLiQkXIkBKDiskHoVFrFOuBEIr_eZH-EjdE20a4R1pbK_iyHi3Uk) 
-   * <span style="color: Tomato"> **Finalist for IISE QCRE Division Best Track Paper Competition**  </span>
+    * <span style="color: Tomato"> **Finalist for IISE QCRE Division Best Track Paper Competition**  </span>
 
 
 
