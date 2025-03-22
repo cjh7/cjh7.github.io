@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Instructor in Pusan National University
+* IE3 600669-066; DE 6001450-001: **Introduction to Reinforcement Learning**, Fall 2024.
 * IE 3500452: **Linear Models in Data Science**, Spring 2024.
 * DE 7600045: **Statistical Models and Analysis**, Spring 2024.
 
