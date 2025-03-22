@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jihoon Chung"
 title_separator          : "-"
 name                     : &name "Jihoon Chung"
-description              : &description "Assistant Professtor at the Department of Industrial Engineering, Pusan National University"
+description              : &description "Assistant Professtor at the Department of Industrial Engineering, Hanyang National University"
 url                      : https://cjh7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cjh7/cjh7.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jihoon Chung"
   avatar           : "jhc.jpg"
-  bio              : "Ph.D. Department of Industrial and Systems Engineering, Virginia Tech"
-  location         : "Blacksburg, VA"
+  bio              : "Assistant professor at Hanyang University"
+  location         : "Seoul, Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7govOZYAAAAJ&hl=en&oi=ao"
-  email            :  "jihoon7@vt.edu"
+  email            :  "chungjh@hanyang.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
