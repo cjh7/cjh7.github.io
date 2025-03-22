@@ -4,6 +4,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
+* Finalist for INFORMS Data Mining Society DMDA Workshop Best Paper Competition (2024).
 * Finalist for IISE QCRE Division Best Track Paper Competition (2023).
 * Finalist for ICQSR Data Challenge (2023).
 * Winner for IISE QCRE Division Data Challenge (2023)
