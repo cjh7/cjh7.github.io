@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 # Projects
-* <b> National Research Foundation of Korea (BrainKorea21), (2025-2027), ``An education and research team for sharing and cooperation based smart systems."
+* <b> National Research Foundation of Korea (BrainKorea21), (2025-2027), `An education and research team for sharing and cooperation based smart systems.'
 * <b>“Process Monitoring and Control of Advanced Manufacturing based on Physics-Assisted Machine Learning,”</b> Hanyang University,Seoul, Korea, Aug. 31, 2023.
 * <b>“Process Monitoring and Control of Advanced Manufacturing based on Physics-Assisted Machine Learning,”</b> Ulsan National Institute of Science & Technology, Ulsan, Korea, Aug. 22, 2023.
 * <b>“Imbalanced Data Analysis from Advanced Manufacturing Process using Data Augmentation based on Generative Adversarial Network,”</b> IInforms Annual Meeting, Phoenix, Arizona, Oct. 15-18, 2023.
