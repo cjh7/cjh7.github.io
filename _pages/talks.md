@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 # Invited Talks 
-* <b>“Process Monitoring and Control of Advanced Manufacturing based on Data-Driven Approaches”</b> Samsung Electronics},  Virtual Meeting , Nov. 20, 2024.
+* <b>“Process Monitoring and Control of Advanced Manufacturing based on Data-Driven Approaches”</b> Samsung Electronics,  Virtual Meeting , Nov. 20, 2024.
 * <b>“Process Monitoring and Control of Advanced Manufacturing based on Physics-Assisted Machine Learning,”</b> Hanyang University,Seoul, Korea, Aug. 31, 2023.
 * <b>“Process Monitoring and Control of Advanced Manufacturing based on Physics-Assisted Machine Learning,”</b> Ulsan National Institute of Science & Technology, Ulsan, Korea, Aug. 22, 2023.
 * <b>“Imbalanced Data Analysis from Advanced Manufacturing Process using Data Augmentation based on Generative Adversarial Network,”</b> IInforms Annual Meeting, Phoenix, Arizona, Oct. 15-18, 2023.
