@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
+jihoon
 # Instructor in Hanyang University
 * MAT 3008: **Numerical Analysis**, Spring 2025.
 * INE7025: **New Trends In Industrial Engineering 2**, Spring 2025.
