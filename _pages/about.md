@@ -16,7 +16,7 @@ Professional Experience
 ======
 * __Hanyang University__, Seoul, Korea.
   * Assistant Professtor at the Department of Industrial Engineering (Mar. 2025~).
-* __Pusan Natinoal University__, Busan, Korea.
+* __Pusan National University__, Busan, Korea.
   * Assistant Professtor at the Department of Industrial Engineering (Mar. 2024~Feb. 2025).
 * __Virginia Polytechnic Institute and State University (Virginia Tech)__, Blacksburg, U.S.A.
   * Postdoctoral Researcher in Smart Manufacturing Analytics Research & Technology Lab, (May 2023~Feb. 2024).
