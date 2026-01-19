@@ -29,5 +29,8 @@ using Data Augmentation based on the Generative Adversarial Network.” Scientif
 Science and Engineering (2025): 20, 6716-6728. <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/10680385?casa_token=3sBHIDB1LQQAAAAA:z_fabo7ltalJKw-hDrPoe-JWLiQkXIkBKDiskHoVFrFOuBEIr_eZH-EjdE20a4R1pbK_iyHi3Uk) 
     * <span style="color: Tomato"> **Finalist for IISE QCRE Division Best Track Paper Competition**  </span>
 
-
+11. R. Zhang, M. Maftouni, <b><ins>J. Chung</ins></b>, B. Shen, R. Wang,  and Z.J. Kong. “Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.” Accept at Journal of Intelligent Manufacturing (2025)
+12. H. Chung, <b><ins>J. Chung</ins></b>, and S. Bae.   “Sensor Fusion Transformer for Interpretable Multi-sensor
+Anomaly Detection.”  Accept at  Engineering Applications of Artificial Intelligence (2025). 
+13.  C. Dou,  <b><ins>J. Chung</ins></b>, R. Gnanasambandam, Z.J. Kong. “Reinforced Scan: A Reinforcement Learning Enabled Scanning Strategy in PBF Additive Manufacturing.” Accept at  Journal of Advanced Manufacturing Technology (2025).  
 
