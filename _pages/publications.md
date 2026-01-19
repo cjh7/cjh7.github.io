@@ -12,9 +12,9 @@ Quality Assurance of Additive Manufacturing.” Journal of Manufacturing Systems
 <br>[[Paper]](https://doi.org/10.1016/j.jmsy.2022.11.008) 
     * <span style="color: Tomato"> **Winner for IISE QCRE Division Best Student Paper Award**  </span>  
 3. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “A Novel Sparse Bayesian Learning and Its Application to Fault
-Diagnosis for Multi-station Assembly Systems.”  IISE Transactions 56.1 (2024): 84-97.  <br>[[Paper]](https://doi.org/10.1080/24725854.2023.2199813) 
-4. A.C.C Law, R. Wang, <b><ins>J. Chung</ins></b>, D. Garcia, E. Kucukdger, B.N Johnson, and Z.J. Kong. “Process Parameter Optimization for Reproducible Fabrication of 3D-printed Tissue Scaffold Porosity and Mechanical Properties.” Journal of Intelligent Manufacturing 35.4 (2024): 1825-1844. <br>[[Paper]](https://doi.org/10.1007/s10845-023-02141-0) 
-5. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “Anomaly Detection in Additive Manufacturing Processes using Supervised Classification with Imbalanced Sensor Data based on Generative Adversarial Network.” Journal of Intelligent Manufacturing 35.5 (2024): 2387-2406. <br>[[Paper]](https://link.springer.com/article/10.1007/s10845-023-02163-8)
+Diagnosis for Multi-station Assembly Systems.”  IISE Transactions 56.1 (2023): 84-97.  <br>[[Paper]](https://doi.org/10.1080/24725854.2023.2199813) 
+4. A.C.C Law, R. Wang, <b><ins>J. Chung</ins></b>, D. Garcia, E. Kucukdger, B.N Johnson, and Z.J. Kong. “Process Parameter Optimization for Reproducible Fabrication of 3D-printed Tissue Scaffold Porosity and Mechanical Properties.” Journal of Intelligent Manufacturing 35.4 (2023): 1825-1844. <br>[[Paper]](https://doi.org/10.1007/s10845-023-02141-0) 
+5. <b><ins>J. Chung</ins></b>, B. Shen, and Z.J. Kong. “Anomaly Detection in Additive Manufacturing Processes using Supervised Classification with Imbalanced Sensor Data based on Generative Adversarial Network.” Journal of Intelligent Manufacturing 35.5 (2023): 2387-2406. <br>[[Paper]](https://link.springer.com/article/10.1007/s10845-023-02163-8)
 6. R. Gnanasambandam, B. Shen, <b><ins>J. Chung</ins></b>, X. Yue, and Z.J. Kong. “Self-scalable Tanh (Stan): Accelerated
 Convergence and Better Generalization of Physics-Informed Neural Networks.” IEEE Transactions on Pattern Analysis and Machine Intelligence 45.12 (2023): 15588-15603 <br>[[Paper]](https://doi.org/10.1109/TPAMI.2023.3307688)
     * <span style="color: Tomato"> **Winner for IISE QCRE/ProcessMiner Data Challenge Competition**  </span> 
