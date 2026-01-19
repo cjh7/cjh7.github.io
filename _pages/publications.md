@@ -26,7 +26,7 @@ Transformations by the Composite Machine Learning Method.”  Scientific Reports
 using Data Augmentation based on the Generative Adversarial Network.” Scientific Reports
 14.1 (2024): 13230. <br>[[Paper]](https://www.nature.com/articles/s41598-024-63285-4)
 10. <b><ins>J. Chung</ins></b>, and Z.J. Kong. “A Sparse Bayesian Learning for Diagnosis of Nonstationary and Spatially Correlated Faults with Application to Multi-Stage Assembly Systems.” IEEE Transactions on Automation
-Science and Engineering (2025): 20, 6716-6728. <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/10680385?casa_token=3sBHIDB1LQQAAAAA:z_fabo7ltalJKw-hDrPoe-JWLiQkXIkBKDiskHoVFrFOuBEIr_eZH-EjdE20a4R1pbK_iyHi3Uk) 
+Science and Engineering (2024): 20, 6716-6728. <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/10680385?casa_token=3sBHIDB1LQQAAAAA:z_fabo7ltalJKw-hDrPoe-JWLiQkXIkBKDiskHoVFrFOuBEIr_eZH-EjdE20a4R1pbK_iyHi3Uk) 
     * <span style="color: Tomato"> **Finalist for IISE QCRE Division Best Track Paper Competition**  </span>
 
 11. R. Zhang, M. Maftouni, <b><ins>J. Chung</ins></b>, B. Shen, R. Wang,  and Z.J. Kong. “Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.” Accept at Journal of Intelligent Manufacturing (2025)
