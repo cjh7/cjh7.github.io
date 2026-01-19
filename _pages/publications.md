@@ -32,5 +32,5 @@ Science and Engineering (2024): 20, 6716-6728. <br>[[Paper]](https://ieeexplore.
 11. R. Zhang, M. Maftouni, <b><ins>J. Chung</ins></b>, B. Shen, R. Wang,  and Z.J. Kong. “Automatic Melt Pool Segmentation and Tracking in the X-ray Image Sequence.” Accept at Journal of Intelligent Manufacturing (2025).
 12. H. Chung, <b><ins>J. Chung</ins></b>, and S. Bae.   “Sensor Fusion Transformer for Interpretable Multi-sensor
 Anomaly Detection.”  Accept at  Engineering Applications of Artificial Intelligence (2025). 
-13.  C. Dou,  <b><ins>J. Chung</ins></b>, R. Gnanasambandam, Z.J. Kong. “Reinforced Scan: A Reinforcement Learning Enabled Scanning Strategy in PBF Additive Manufacturing.” Accept at  Journal of Advanced Manufacturing Technology (2025).  
+13.  C. Dou,  <b><ins>J. Chung</ins></b>, R. Gnanasambandam, and Z.J. Kong. “Reinforced Scan: A Reinforcement Learning Enabled Scanning Strategy in PBF Additive Manufacturing.” Accept at  Journal of Advanced Manufacturing Technology (2025).  
 
